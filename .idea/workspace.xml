@@ -6,7 +6,34 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb4a941a-4475-4853-a47e-5583befe5f84" name="Default Changelist" comment="" />
+    <list default="true" id="fb4a941a-4475-4853-a47e-5583befe5f84" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhl/o2o/dao/AreaDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhl/o2o/service/AreaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhl/o2o/service/impl/AreaServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhl/o2o/web/superadmin/AreaController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/AreaDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/zhl/o2o/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/zhl/o2o/dao/AreaDaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/zhl/o2o/service/AreaServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/hello.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/schoolshopper_war_exploded/WEB-INF/classes/com/zhl/o2o/controller/TestController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/schoolshopper_war_exploded/WEB-INF/classes/com/zhl/o2o/controller/TestController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/schoolshopper_war_exploded/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/schoolshopper_war_exploded/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/schoolshopper_war_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/schoolshopper_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/schoolshopper_war_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/schoolshopper_war_exploded/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhl/o2o/controller/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zhl/o2o/controller/TestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/jdbc.propertis" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring/spring-dao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring/spring-dao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring/spring-service.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring/spring-service.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring/spring-web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring/spring-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zhl/o2o/controller/TestController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zhl/o2o/controller/TestController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,10 +43,15 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
         <option value="spring-beans.schema" />
+        <option value="Jsp File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -29,7 +61,11 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectId" id="1U42UETnBnSx54fqxwiWXGGJFfc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="D:/SpringMVCDemo-master" />
@@ -39,10 +75,14 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.zhl.o2o" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\java\schoolshopper\web" />
       <recent name="D:\java\schoolshopper\web\WEB-INF\pages" />
       <recent name="D:\java\schoolshopper\web\WEB-INF" />
+      <recent name="D:\java\schoolshopper\web\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -57,7 +97,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Tomcat Server.tomcat">
+    <configuration name="AreaDaoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="schoolshopper" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhl.o2o.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zhl.o2o.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.zhl.o2o.dao.AreaDaoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AreaServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="schoolshopper" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhl.o2o.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zhl.o2o.service" />
+      <option name="MAIN_CLASS_NAME" value="com.zhl.o2o.service.AreaServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="tomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.43" ALTERNATIVE_JRE_ENABLED="false">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
@@ -130,6 +200,17 @@
         </option>
       </method>
     </configuration>
+    <list>
+      <item itemvalue="JUnit.AreaDaoTest" />
+      <item itemvalue="JUnit.AreaServiceTest" />
+      <item itemvalue="Tomcat Server.tomcat" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AreaServiceTest" />
+        <item itemvalue="JUnit.AreaDaoTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -147,10 +228,26 @@
       <workItem from="1574915158424" duration="6548000" />
       <workItem from="1575009972475" duration="4404000" />
       <workItem from="1575080896369" duration="6571000" />
+      <workItem from="1575101342982" duration="2693000" />
+      <workItem from="1575266875415" duration="10210000" />
+      <workItem from="1575336793877" duration="7493000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
