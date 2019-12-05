@@ -14,6 +14,9 @@ public class TestController {
     @RequestMapping(value = "/", method = RequestMethod.GET)
     public String index() {
         System.out.println("what the fuck you donig");
+
+
+
         logger.info("fuck you do dodo");
         logger.debug("fuck you do dodo");
         return "hello";

@@ -7,18 +7,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb4a941a-4475-4853-a47e-5583befe5f84" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/logback.xml.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/logbak.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/artifacts/schoolshopper_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/schoolshopper_war_exploded.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/schoolshopper_war_exploded/WEB-INF/classes/com/zhl/o2o/controller/TestController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/schoolshopper_war_exploded/WEB-INF/classes/com/zhl/o2o/controller/TestController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/schoolshopper_war_exploded/WEB-INF/classes/com/zhl/o2o/web/superadmin/AreaController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/schoolshopper_war_exploded/WEB-INF/classes/com/zhl/o2o/web/superadmin/AreaController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/schoolshopper_war_exploded/WEB-INF/classes/logbak.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/schoolshopper_war_exploded/WEB-INF/classes/logbak.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/schoolshopper_war_exploded/WEB-INF/lib/logback-access-1.2.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/schoolshopper_war_exploded/WEB-INF/lib/logback-ext-spring-0.1.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/schoolshopper_war_exploded/WEB-INF/lib/slf4j-nop-1.7.25.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/schoolshopper_war_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/schoolshopper_war_exploded/WEB-INF/web.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/zhl/o2o/controller/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zhl/o2o/controller/TestController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhl/o2o/web/superadmin/AreaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zhl/o2o/web/superadmin/AreaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/logbak.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/logbak.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/zhl/o2o/controller/TestController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zhl/o2o/controller/TestController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zhl/o2o/web/superadmin/AreaController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zhl/o2o/web/superadmin/AreaController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/logbak.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/logbak.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,9 +58,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="E:/spring-mvc-logback" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="project.structure.side.proportion" value="0.41165918" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
@@ -222,6 +223,7 @@
       <workItem from="1575266875415" duration="10210000" />
       <workItem from="1575336793877" duration="7493000" />
       <workItem from="1575423804086" duration="18919000" />
+      <workItem from="1575526234728" duration="5329000" />
     </task>
     <servers />
   </component>
