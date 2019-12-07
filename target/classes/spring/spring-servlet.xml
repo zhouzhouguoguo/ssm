@@ -6,13 +6,31 @@
 
     <mvc:annotation-driven/>
 
+<!--    <mvc:resources mapping="/resources/**" location="/resources/" />-->
+    <mvc:default-servlet-handler />
+
     <context:component-scan base-package="com.zhl.o2o.controller"/>
     <context:component-scan base-package="com.zhl.o2o.web"/>
 
-    <bean id="jspViewResolver" class="org.springframework.web.servlet.view.InternalResourceViewResolver">
-        <property name="viewClass" value="org.springframework.web.servlet.view.JstlView"/>
-        <property name="prefix" value="/WEB-INF/pages/"/>
-        <property name="suffix" value=".jsp"/>
+<!--    <bean id="jspViewResolver" class="org.springframework.web.servlet.view.InternalResourceViewResolver">-->
+<!--        <property name="viewClass" value="org.springframework.web.servlet.view.JstlView"/>-->
+<!--        <property name="prefix" value="/WEB-INF/pages/"/>-->
+<!--        <property name="suffix" value=".jsp"/>-->
+<!--    </bean>-->
+
+    <!-- 3.定义视图解析器 -->
+    <bean id="viewResolver"
+          class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+        <property name="prefix" value="/WEB-INF/html/"></property>
+        <property name="suffix" value=".html"></property>
+    </bean>
+
+    <!-- 文件上传解析器 -->
+    <bean id="multipartResolver"
+          class="org.springframework.web.multipart.commons.CommonsMultipartResolver">
+        <property name="defaultEncoding" value="utf-8"></property>
+        <property name="maxUploadSize" value="10485760000"></property><!-- 最大上传文件大小 -->
+        <property name="maxInMemorySize" value="10960"></property>
     </bean>
 
 </beans>

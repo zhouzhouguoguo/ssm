@@ -1,5 +1,5 @@
 <component name="ArtifactManager">
-  <artifact type="exploded-war" name="schoolshopper:war exploded">
+  <artifact type="exploded-war" name="schoolshopper">
     <output-path>$PROJECT_DIR$/out/artifacts/schoolshopper_war_exploded</output-path>
     <root id="root">
       <element id="javaee-facet-resources" facet="schoolshopper/web/Web" />
@@ -30,8 +30,15 @@
           <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.25" />
           <element id="library" level="project" name="Maven: ch.qos.logback:logback-core:1.2.3" />
           <element id="library" level="project" name="Maven: ch.qos.logback:logback-classic:1.2.3" />
+          <element id="library" level="project" name="Maven: net.coobird:thumbnailator:0.4.8" />
+          <element id="library" level="project" name="Maven: com.github.penggle:kaptcha:2.3.2" />
+          <element id="library" level="project" name="Maven: javax.servlet:javax.servlet-api:3.1.0" />
+          <element id="library" level="project" name="Maven: com.jhlabs:filters:2.0.235-1" />
+          <element id="library" level="project" name="Maven: commons-fileupload:commons-fileupload:1.3.2" />
+          <element id="library" level="project" name="Maven: commons-io:commons-io:2.2" />
         </element>
       </element>
+      <element id="javaee-facet-resources" facet="schoolshopper/web/Web2" />
     </root>
   </artifact>
 </component>

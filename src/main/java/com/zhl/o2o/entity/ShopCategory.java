@@ -9,6 +9,8 @@ public class ShopCategory {
     private Integer priority;
     private Date createTime;
     private Date lastEditTime;
+    private ShopCategory parent;
+    private Long parentId;
 
     public Long getShopCategoryId() {
         return shopCategoryId;
@@ -66,5 +68,12 @@ public class ShopCategory {
         this.parent = parent;
     }
 
-    private ShopCategory parent;
+    public Long getParentId() {
+        return parentId;
+    }
+
+    public void setParentId(Long parentId) {
+        this.parentId = parentId;
+    }
+
 }
